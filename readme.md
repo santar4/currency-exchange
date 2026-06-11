@@ -27,6 +27,20 @@ A simple Telegram bot for checking supported currencies and converting money bet
 - **Currency API**: Frankfurter API
 - **Architecture**: Router-based handlers + FSM states
 
+## Screenshots
+
+**1. Start message**  
+![Start Message](screenshots/Start.png)
+
+**2. Bot menu commands**  
+![Bot Menu](screenshots/Menu.png)
+
+**3. Supported currencies list**  
+![Supported Currencies](screenshots/Currencies.png)
+
+**4. Currency conversion flow**  
+![Currency Conversion](screenshots/Convert.png)
+
 ## Bot Commands
 
 ```text
